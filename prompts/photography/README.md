@@ -9,6 +9,7 @@
 |-------|------|------|------|
 | `人像公式` | [portrait-prompt-formulas.md](./portrait-prompt-formulas.md) | 通用人像 Prompt 公式 + 九模块框架 + 负面约束库 + 8 种风格预设 | @zhongying14 |
 | `油画写真` | [french-vintage-oil-painting-portrait-2x2.md](./french-vintage-oil-painting-portrait-2x2.md) | 法式复古油画少女轻私房摄影 · 2×2 四宫格完整 Prompt | @zhongying14 |
+| `破屏穿越` | [screen-burst-luxury-ad-prompt.md](./screen-burst-luxury-ad-prompt.md) | 破屏穿越风格 · 豪华商业广告海报（3D 人物从手机屏幕冲出） | @you1873118 |
 
 ---
 
