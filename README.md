@@ -18,6 +18,7 @@
 | `时尚编辑` | 摄影 | 时尚杂志双页广告 · Vogue/GQ 级排版（@Ankit_patel211） |
 | `Chibi编辑` | 图像编辑 | Chibi Q版小人风格照片编辑（@Ciri_ai） |
 | `实写手绘VFX` | 视频 | 实写×手绘动画 VFX：ChatGPT 指示文 + Seedance 终稿（@genel_ai） |
+| `发型变装` | 视频 | 9 套发型卡点变装：Turn+Hair Whip + 影棚竖屏 10s（@johnAGI168） |
 
 ---
 
@@ -73,9 +74,10 @@ Lumiscale-Superskill/
 | 快捷名 | 文件 | 内容 | 来源 |
 |--------|------|------|------|
 | `实写手绘VFX` | live-action-handdrawn-vfx-chatgpt-seedance.md | 实写×手绘发光动画 VFX：ChatGPT 指示文 + Seedance 2.0 终稿 + 五铁律 | @genel_ai |
+| `发型变装` | hairstyle-transformation-seedance.md | 9 套发型卡点变装：Turn+Hair Whip 转场 + 影棚竖屏 10s | @johnAGI168 |
 
 > 详见 [prompts/video/README.md](prompts/video/README.md)  
-> 分析长文：`docs/live-action-handdrawn-vfx-chatgpt-seedance-genel-2026-07-28.md`
+> 分析长文：`docs/live-action-handdrawn-vfx-chatgpt-seedance-genel-2026-07-28.md` · `docs/hairstyle-transformation-seedance-johnagi168-2026-07-28.md`
 
 ---
 
@@ -90,9 +92,9 @@ Lumiscale-Superskill/
 
 ## 统计
 
-- **总提示词数**：9+
+- **总提示词数**：10+
 - **分类数**：4+（角色设计 / 摄影 / 图像编辑 / 视频）
-- **最新更新**：2026-07-28
+- **最新更新**：2026-07-28（+发型变装）
 - **来源平台**：X/Twitter · note
 
 ---

@@ -10,6 +10,7 @@
 | 快捷名 | 文件 | 说明 | 来源 |
 |--------|------|------|------|
 | `实写手绘VFX` | live-action-handdrawn-vfx-chatgpt-seedance.md | 实写×手绘动画 VFX：ChatGPT 指示文 + Seedance 终稿 + 五铁律量产壳 | @genel_ai |
+| `发型变装` | hairstyle-transformation-seedance.md | 9 套发型卡点变装：Turn+Hair Whip 转场 + 影棚竖屏 10s | @johnAGI168 |
 
 ---
 
