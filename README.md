@@ -17,6 +17,7 @@
 | `破屏穿越` | 摄影 | 破屏穿越 · 3D 人物从手机屏幕冲出（@you1873118） |
 | `时尚编辑` | 摄影 | 时尚杂志双页广告 · Vogue/GQ 级排版（@Ankit_patel211） |
 | `Chibi编辑` | 图像编辑 | Chibi Q版小人风格照片编辑（@Ciri_ai） |
+| `实写手绘VFX` | 视频 | 实写×手绘动画 VFX：ChatGPT 指示文 + Seedance 终稿（@genel_ai） |
 
 ---
 
@@ -26,26 +27,14 @@
 Lumiscale-Superskill/
 ├── README.md                    ← 本文件
 ├── prompts/
-│   ├── character-design/        ← 角色设计类（3 条）
-│   │   ├── README.md
-│   │   ├── character-identity-board-prompt.md
-│   │   ├── character-scrapbook-poster-prompt.md
-│   │   ├── character-scrapbook-ballet-xin.md
-│   │   ├── aimikoda-char-sheet-example1.jpg
-│   │   └── aimikoda-char-sheet-example2.jpg
-│   ├── photography/             ← 摄影/人像类（4 条）
-│   │   ├── README.md
-│   │   ├── portrait-prompt-formulas.md
-│   │   ├── french-vintage-oil-painting-portrait-2x2.md
-│   │   ├── screen-burst-luxury-ad-prompt.md
-│   │   ├── fashion-editorial-system-prompt.md
-│   │   ├── ankit-fashion-spread-example1.jpg
-│   │   └── ankit-fashion-spread-example2.jpg
-│   └── image-editing/           ← 图像编辑类（1 条）
-│       └── chibi-photo-edit-prompt.md
+│   ├── character-design/        ← 角色设计类
+│   ├── photography/             ← 摄影/人像类
+│   ├── image-editing/           ← 图像编辑类
+│   ├── illustration/            ← 插画类
+│   └── video/                   ← 视频生成类
+│       ├── README.md
+│       └── live-action-handdrawn-vfx-chatgpt-seedance.md
 └── docs/                        ← 分析与长文
-    ├── screen-burst-style-prompt-analysis-2026-05-12.md
-    └── ai-creative-tools-showcase-2026-05-12-公众号重构版.md
 ```
 
 ---
@@ -79,22 +68,32 @@ Lumiscale-Superskill/
 |--------|------|------|------|
 | `Chibi编辑` | chibi-photo-edit-prompt.md | Chibi Q版小人风格照片编辑 · 保持原图不变 + 添加 mini 角色装饰 | @Ciri_ai |
 
+### 🎬 视频（video）
+
+| 快捷名 | 文件 | 内容 | 来源 |
+|--------|------|------|------|
+| `实写手绘VFX` | live-action-handdrawn-vfx-chatgpt-seedance.md | 实写×手绘发光动画 VFX：ChatGPT 指示文 + Seedance 2.0 终稿 + 五铁律 | @genel_ai |
+
+> 详见 [prompts/video/README.md](prompts/video/README.md)  
+> 分析长文：`docs/live-action-handdrawn-vfx-chatgpt-seedance-genel-2026-07-28.md`
+
 ---
 
 ## 使用方式
 
-1. 在对话中说对应快捷名即可引用，如 `用角色手账板`
+1. 在对话中说对应快捷名即可引用，如 `用角色手账板` 或 `用实写手绘VFX`
 2. 每个提示词文件包含：完整 Prompt、模板化版本、使用说明、技巧要点、来源链接
 3. 需要参考照片才能出图的 prompt（如油画写真、Chibi编辑），需在 ChatGPT 原生界面使用，API 不支持上传参考图
+4. 视频类 prompt 默认面向 Seedance 2.0 文本→视频；BGM 建议 SUNO 后贴
 
 ---
 
 ## 统计
 
-- **总提示词数**：8
-- **分类数**：3（角色设计 / 摄影 / 图像编辑）
-- **最新更新**：2026-05-13
-- **来源平台**：X/Twitter
+- **总提示词数**：9+
+- **分类数**：4+（角色设计 / 摄影 / 图像编辑 / 视频）
+- **最新更新**：2026-07-28
+- **来源平台**：X/Twitter · note
 
 ---
 
