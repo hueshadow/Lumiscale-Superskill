@@ -3,7 +3,19 @@
 > 整理时间：2026-08-07  
 > 适用场景：赛道扫描、竞品对标、需求真伪校验、蓝海供给审计  
 > 与 Toolify 收入榜关系：榜单 = 头部校准与红海地图；本文 = 榜外「已在卖 / 像有收入」的发现路径  
+> 落地附件：`docs/assets/paid-product-discovery/`（CSV 候选库模板、15 分钟快核、种子试跑）  
 > 来自hueshadow
+
+---
+
+## 落地附件（直接用）
+
+| 文件 | 说明 |
+|------|------|
+| [assets/paid-product-discovery/README.md](./assets/paid-product-discovery/README.md) | 目录说明与导入纪律 |
+| [assets/paid-product-discovery/candidates-template.csv](./assets/paid-product-discovery/candidates-template.csv) | 表头 + 15 条种子候选 |
+| [assets/paid-product-discovery/quick-check-15min.md](./assets/paid-product-discovery/quick-check-15min.md) | 单品 15 分钟快核清单 |
+| [assets/paid-product-discovery/SEED-RUN-2026-08-07.md](./assets/paid-product-discovery/SEED-RUN-2026-08-07.md) | 首轮四源试跑记录 |
 
 ---
 
